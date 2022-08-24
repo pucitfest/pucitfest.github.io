@@ -18,9 +18,10 @@
             <div class="object-none object-center w-72 h-72 mb-1 shadow-lg rounded-xl text-white  mx-auto sticky max-w-screen-sm p-1.5 bg-gradient-to-r from-purple-600 to-pink-700 cursor-pointer opacity-70" type="submit">
               <img class="rounded-lg" src="../assets/logo.jpg" alt="" srcset="" width="450px" height="450px">
             </div>
+
           </div>
           <div class="text-center shadow-xl mt-2 bg-white opacity-70 rounded-xl p-4 w-full 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:max-w-screen-lg md:max-w-screen-md max-w-sm mx-auto">
-            <div class="w-6/12 p-2 xl:w-full 2xl:w-full lg:w-full md:w-full sm:w-full shadow-3xl">
+            <div class="p-2 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:max-w-screen-lg md:max-w-screen-md max-w-sm mx-auto opacity-60 shadow-3xl">
               <div class="bg-gray-200 animate-pulse h-full rounded-md p-2 flex space-x-4">
                 <div class="object-none object-center mb-1 shadow-lg rounded-xl text-white  mx-auto sticky max-w-screen-sm p-1.5 bg-gradient-to-r from-purple-600 to-pink-700 cursor-pointer opacity-70" type="submit">
                   <img class="rounded-lg" src="../assets/comingsoon.jpg" alt="" srcset="" width="450px" height="450px">
@@ -29,7 +30,7 @@
             </div>                    
           </div>
           <div class="text-center shadow-xl mt-2 bg-white opacity-50 rounded-xl p-4 w-full 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:max-w-screen-lg md:max-w-screen-md max-w-sm mx-auto">
-            <div class="w-6/12 p-2 xl:w-full 2xl:w-full lg:w-full md:w-full sm:w-full opacity-60 shadow-3xl">
+            <div class="p-2 2xl:max-w-screen-2xl xl:max-w-screen-xl lg:max-w-screen-lg md:max-w-screen-md max-w-sm mx-auto opacity-60 shadow-3xl">
               <div class="animate-pulse bg-gray-300 h-full rounded-md p-2 flex space-x-4">
                 <div class="flex-1 space-y-4 py-1">
                   <div class="h-4 bg-gray-400 dark:bg-red-400 rounded w-3/4"></div>
